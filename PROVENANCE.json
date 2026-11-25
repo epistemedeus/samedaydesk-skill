@@ -1,0 +1,14 @@
+{
+  "sourceRepository": "epistemedeus/x402-data-gateway-skills",
+  "sourceCommit": "9ff00fc908a2f8d376f259ca94f0473d40ef7e99",
+  "sourcePath": "skills/samedaydesk-machine-commerce",
+  "filesCopiedUnchanged": [
+    {
+      "path": "skills/samedaydesk-machine-commerce/SKILL.md",
+      "upstreamBlob": "9c50d3027eb6c548a55385991eec621176cb2308",
+      "sha256": "df1f2e829533e17cecfd01550b2845c13145d7cfb303026e71e2b4c83ede3272",
+      "bytes": 11317
+    }
+  ],
+  "distribution": "Single-brand installable skill. No product authority or payment credentials are bundled."
+}
